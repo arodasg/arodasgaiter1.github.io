@@ -11,11 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Public Administration and Policy, University of Georgia - SPIA (United States), 2024 (expected)
+* M.S. in Public Policy, Universidad de los Andes (Colombia), 2016
+* B.S. in Economics, Universidad Icesi (Colombia), 2014
 
-Work experience
+Research experience
+======
+* Aug. 2020 – May 2022: Research Assistant
+  * University of Georgia, School of Public and International Affairs – SPIA 
+  * Duties included:
+    * Collected data through quantitative methods.
+    * Conducted literature reviews and analyzed information about the decision-making process from different sources.
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+Research experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -32,6 +49,7 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
+
 Skills
 ======
 * Skill 1
