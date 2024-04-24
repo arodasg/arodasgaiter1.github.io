@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+# Header one
+
+## Header two
 Education
 ======
 * Ph.D in Public Administration and Policy, University of Georgia - SPIA (United States), 2024 (expected)
@@ -17,13 +20,13 @@ Education
 
 Research Experience
 ======
-* Aug. 2020 – May 2022: Research Assistant
+* ## Aug. 2020 – May 2022: Research Assistant
   * University of Georgia, School of Public and International Affairs – SPIA (Athens, Ga, US)
   * Duties included:
     * Collected data through quantitative methods.
     * Conducted literature reviews and analyzed information about the decision-making process from different sources.
 
-* Jan 2014 - Feb 2016: Research Assistant
+* ## Jan 2014 - Feb 2016: Research Assistant
   * Universidad de los Andes (Bogotá, Colombia)
   * Duties included:
     * Developed recommendations for the national government on a public policy on human resource management.
@@ -33,44 +36,44 @@ Research Experience
 
 Teaching Experience
 ======
-* Aug. 2021 - present: Teacher Assistant
+* ## Aug. 2021 - present: Teacher Assistant
   * University of Georgia, School of Public and International Affairs – SPIA (Athens, Ga, US)
   * Class: American Government - Undergrad Level
 
-* Nov-Dec 2021: Instructor
+* ## Nov-Dec 2021: Instructor
   * Universidad de los Andes (Bogotá, Colombia)
   * Seminar to public employees about project theory
 
-* Spring 2015: Teacher Assistant
+* ## Spring 2015: Teacher Assistant
   * Universidad de los Andes (Bogotá, Colombia)
   * Class: STATA software - Undergrad Level
     
 
 Relevant Professional Experience 
 ======
-* Feb.-Jul 2020: Municipality of Palmira (Colombia)
+* ## Feb.-Jul 2020: Municipality of Palmira (Colombia)
   * Specialized Professional (General Secretary)
   * Duties included:
     * Coordinated departments within the Municipality to ensure effective implementation of projects to mitigate the effects of COVID-19.
     * Advised the Mayor on strategic topics and monitored strategic projects for the mayor’s office.     
 
-* Jan 2016 - Dec 2019: Municipality of Cali (Colombia)
-  * Secretary of Government - Secretary Interim  (Oct-Dec 2019)
+* ## Jan 2016 - Dec 2019: Municipality of Cali (Colombia)
+  * ### Secretary of Government - Secretary Interim  (Oct-Dec 2019)
   * Duties included:
     * Chief of Staff.
     * Supervised the transition process between the actual government and the elected one.
    
-  * Private Office for the Mayor - Private Secretary for the Mayor (Nov 2018 -Dec 2019)
+  * ### Private Office for the Mayor - Private Secretary for the Mayor (Nov 2018 -Dec 2019)
   * Duties included:
     * Coordinated the Mayor’s appointments and schedules.
     * Supervised the implementation of strategic projects for the mayor.
     
-  * Metro Cali S.A - Executive Office for the Presidency - Specialized Professional 	(Feb. 2017 – Oct. 2018)
+  * ### Metro Cali S.A - Executive Office for the Presidency - Specialized Professional 	(Feb. 2017 – Oct. 2018)
   * Duties included:
     * Coordinated subunits within the agency to ensure the effective implementation of public transportation projects.
     * Advised the President on strategic topics related to the organization and the public transportation system.
 
-  * Cabinet Office - Specialized Professional (Jan. 2016 – Jan 2017)
+  * ### Cabinet Office - Specialized Professional (Jan. 2016 – Jan 2017)
   * Duties included:
     * Designed and coordinated the Municipality’s Delivery Unit.
     * Monitor strategic projects for the mayor’s office.
